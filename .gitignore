@@ -5,13 +5,3 @@
 
 # Dependencies
 /node_modules
-
-# Compiled output
-/dist
-/tmp
-/out-tsc
-# Only exists if Bazel was run
-/bazel-out
-
-# Dependencies
-/node_modules
